@@ -67,6 +67,7 @@ CÀI ĐẶT MÔ HÌNH DEEPVAR
 2. Tiêu chí đánh giá
 -	Độ chính xác của mô hình được đánh giá bằng các chỉ số: MSE, MAE, RMSE, CV(RMSE)
 3. Kết quả thực nghiệm
+
 Mục tiêu dự báo của mô hình là 5 biến:
       	- tavg (nhiệt độ trung bình)
       	- pres (áp suất)
@@ -80,6 +81,7 @@ Các bước thực nghiệm:
 -	Tìm lag tối ưu
 -	Tìm tham số tối ưu
 -	Đánh giá độ chính xác của mô hình
+
 Nhận xét chung:
 - Mô hình DeepVAR hoạt động tốt với các biến thời tiết có tính tuần hoàn, dao động ổn định và ảnh hưởng mạnh mẽ lẫn nhau như nhiệt độ và áp suất.
 - Gặp nhiều khó khăn với các biến có tính bất thường và dao động lớn như lượng mưa và hướng gió – đặc biệt ở các khu vực khí hậu nhiệt đới như Thủ Đức
