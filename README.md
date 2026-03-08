@@ -3,6 +3,7 @@ Tiểu luận chuyên ngành Công nghệ Thông tin - Đề tài: Tìm Hiểu M
 Sinh viên thực hiện: 
 - Ngô Thanh Thanh - 21110643
 - Vũ Thị Bích Ngọc - 21110905
+  
 Nội dung báo cáo:
 1.	Tìm hiểu về thời tiết, các yếu tố ảnh hưởng và bài toán dự báo thời tiết.
 2.	Tìm hiểu về các công trình liên quan dùng trong dự báo thời tiết.
